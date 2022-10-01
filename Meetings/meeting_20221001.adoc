@@ -1,0 +1,32 @@
+= Meeting 01.10.2022 - SWE C2
+:toc:
+:sectnums:
+
+== Themen
+ - Vorstellungs Runde
+ - Rollenverteilung
+ - Besprechnug von Technologien/Tools
+ - Erster Kundenkontakt per EMail ist erfolgt
+
+== Rollenverteilung
+=== Projektmanager
+- Lina
+- Luke
+
+=== Vertriebsmanager
+- Kai
+- Elian
+
+=== Qualitätsmanager
+- Alvaro
+- Hannah
+- Timo
+
+=== Technologiemanager
+- Manuel
+- Pascal
+
+== Next Steps
+. GitHub aufsetzten
+. Trello Board aufbauen
+. Plaung des Lastenhefts
