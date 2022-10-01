@@ -3,6 +3,7 @@
 
 ## TODOs
 - Einführung in Asciidoc
+- Start des Lastenhefts
 
 
 ## Asciidoc Links
