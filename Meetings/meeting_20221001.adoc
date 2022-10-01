@@ -27,6 +27,6 @@
 - Pascal
 
 == Next Steps
-. GitHub aufsetzten
-. Trello Board aufbauen
-. Plaung des Lastenhefts
+- GitHub aufsetzten
+- Trello Board aufbauen
+- Plaung des Lastenhefts
