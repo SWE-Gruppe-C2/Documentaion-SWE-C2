@@ -14,12 +14,12 @@
 - https://docs.asciidoctor.org/asciidoc/latest/
 
 ## Asciidoc Extension VS Code
-Name: AsciiDoc
-Id: asciidoctor.asciidoctor-vscode
-Description: Provides rich language support for AsciiDoc.
-Version: 2.9.5
-Publisher: asciidoctor
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode
+- Name: AsciiDoc
+- Id: asciidoctor.asciidoctor-vscode
+- Description: Provides rich language support for AsciiDoc.
+- Version: 2.9.5
+- Publisher: asciidoctor
+- VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode
 
 ## Asciidoc Document Outline
 ```
