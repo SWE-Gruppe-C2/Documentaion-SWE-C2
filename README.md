@@ -20,8 +20,8 @@
 :toc:
 :sectnums:
 
-== Header 1
-=== Header 2
-==== Header 3
+== Section Title Level 1
+=== Section Title Level 2
+==== Section Title Level 3
 
 ```
