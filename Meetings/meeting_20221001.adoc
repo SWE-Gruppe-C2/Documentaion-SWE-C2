@@ -18,13 +18,15 @@
 - Elian
 
 === Qualitätsmanager
-- Alvaro
+- Lara
 - Hannah
 - Timo
 
 === Technologiemanager
 - Manuel
 - Pascal
+- Alvaro
+
 
 == Next Steps
 - GitHub aufsetzten
