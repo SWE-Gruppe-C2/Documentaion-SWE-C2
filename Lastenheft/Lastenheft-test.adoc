@@ -1,0 +1,12 @@
+= Lastenheft SWE C2
+:toc: auto
+:sectnums:
+:doctype: book
+
+[glossary]
+== Glossary
+
+[glossary]
+drucken:: conversion to PDF format
+QRF:: Quick Response Force
+
